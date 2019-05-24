@@ -1,6 +1,4 @@
 /*Joseph Shvedsky - shvedj
-  Yi Fan          - fany4
-  Daniel Lee      - leed19*/
   
 #include "MemAndProcess.h"
 #include <iostream>
