@@ -1,6 +1,4 @@
-/*Joseph Shvedsky - shvedj
-  Yi Fan          - fany4
-  Daniel Lee      - leed19*/
+/*Joseph Shvedsky - shvedj*/
   
 #ifndef MemAndProcess_h_
 #define MemAndProcess_h_
