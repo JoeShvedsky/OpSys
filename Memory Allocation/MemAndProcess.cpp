@@ -1,4 +1,4 @@
-/*Joseph Shvedsky - shvedj
+/*Joseph Shvedsky - shvedj/*
   
 #include "MemAndProcess.h"
 #include <iostream>
